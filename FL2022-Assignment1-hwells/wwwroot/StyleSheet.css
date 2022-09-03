@@ -1,4 +1,14 @@
 ﻿body {
-    background: #fc52ba 
+    background: #fff692
     
+}
+
+img {
+    border-radius: 80%;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    text-align: center
 }
