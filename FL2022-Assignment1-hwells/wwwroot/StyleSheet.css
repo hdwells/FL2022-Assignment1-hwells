@@ -4,11 +4,33 @@
 }
 
 img {
-    border-radius: 80%;
+    border-radius: 30px;
 }
 
 .content {
     max-width: 500px;
     margin: auto;
     text-align: center
+}
+
+#Title {
+    color: #fff692;
+    border-radius: 60px;
+    background-color: blue;
+}
+
+
+#Rating {
+    color: blue:
+}
+
+#Actors {
+    color: #fff692;
+    background-color: blue;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+#Summary {
+    font-size: 18px;
 }
